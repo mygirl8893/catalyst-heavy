@@ -1,3 +1,4 @@
+# Copyright (c) 2018, Catalyst Project
 # Copyright (c) 2014-2017, The Monero Project
 #
 # All rights reserved.
@@ -28,9 +29,9 @@
 #
 # Parts of this file are originally copyright (c) 2012-2013 The Cryptonote developers
 
-cmake_minimum_required(VERSION 2.8.7)
+cmake_minimum_required(VERSION 3.11.0)
 
-project(sumokoin)
+project(catalyst)
 
 function (die msg)
   if (NOT WIN32)
