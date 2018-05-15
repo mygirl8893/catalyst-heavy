@@ -60,5 +60,5 @@ add_dependencies(simplewallet
   version)
 set_property(TARGET simplewallet
   PROPERTY
-    OUTPUT_NAME "sumo-wallet-cli")
+    OUTPUT_NAME "catalyst-wallet-cli")
 install(TARGETS simplewallet DESTINATION bin)
