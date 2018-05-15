@@ -1,4 +1,6 @@
-# Sumokoin
+# Catalyst Coin
+
+Copyright (c) 2018, catalyst.cash
 
 Copyright (c) 2017, Sumokoin.org
 
@@ -8,8 +10,8 @@ Portions Copyright (c) 2012-2013, The Cryptonote developers
 
 ## Development Resources
 
-- Web: [www.sumokoin.org](https://www.sumokoin.org)
-- Mail: [contact@sumokoin.org](mailto:contact@sumokoin.org)
+- Web: [www.catalyst.cash](https://www.catalyst.cash)
+- Mail: [contact@catalyst.cash](mailto:contact@catalyst.cash)
 
 Please note that code is developed on the [dev branch](https://github.com/sumoprojects/sumokoin/tree/dev), if you want to check out the latest updates, before they are merged on main branch, please refer there. Master branch will always point to a version that we consider stable, so you can download the code by simply typing `git clone https://github.com/sumoprojects/sumokoin.git`
 
